@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: "This is Gatsby, BRAAAAS!",
+    description: "ME giving an example"
+  },
   plugins: [],
 }
